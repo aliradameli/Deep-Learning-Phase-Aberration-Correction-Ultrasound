@@ -129,4 +129,7 @@ The project timeline spans across the academic year 1404–1405 (Iranian Calenda
 5. F. Khun Jush et al., "Deep learning for ultrasound speed-of-sound reconstruction: Impacts of training data diversity on stability and robustness," *MELBA*, vol. 2, 2023.
 6. J. F. Havlice and J. C. Taenzer, "Medical ultrasonic imaging: An overview of principles and instrumentation," *Proc. IEEE*, vol. 67, no. 4, 1979.
 7. G. C. Ng et al., "A comparative evaluation of several algorithms for phase aberration correction," *IEEE Trans. UFFC*, vol. 41, no. 5, 1994.
-8. http://www.k-wave.org
+8. B. E. Treeby and B. T. Cox, "k-Wave: MATLAB toolbox for the simulation and reconstruction of photoacoustic wave-fields," J. Biomed. Opt., vol. 15, no. 2, p. 021314, 2010.
+9. B. E. Treeby, J. Jaros, A. P. Rendell, and B. T. Cox, "Modeling nonlinear ultrasound propagation in heterogeneous media with power law absorption using a k-space pseudospectral method," J. Acoust. Soc. Am., vol. 131, no. 6, pp. 4324-4336, 2012.
+10. B. E. Treeby, J. Jaros, D. Rohrbach, and B. T. Cox, "Modelling elastic wave propagation using the k-Wave MATLAB toolbox," IEEE International Ultrasonics Symposium, pp. 146-149, 2014.
+11. B. E. Treeby, J. Budisky, E. S. Wise, J. Jaros, and B. T. Cox, "Rapid calculation of acoustic fields from arbitrary continuous-wave sources," J. Acoust. Soc. Am., vol. 143, no. 1, pp. 529-537, 2018.
