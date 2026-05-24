@@ -1,7 +1,7 @@
 # Deep Learning-Enabled Phase Aberration Correction for Enhanced Ultrasound Imaging
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
-[![k-Wave](https://img.shields.io/badge/Simulation-k--Wave-green.svg)](https://github.com/ucl-bug/k-wave-python)
+[![k-Wave](https://img.shields.io/badge/Simulation-k--Wave-green.svg)](https://github.com/waltsims/k-wave-python)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the simulation framework, deep learning models, and evaluation tools for my Bachelor's Thesis project at the University of Tehran, Faculty of Mechanical Engineering. The project focuses on correcting phase aberrations caused by tissue heterogeneity in breast cancer ultrasound imaging using deep neural networks.
